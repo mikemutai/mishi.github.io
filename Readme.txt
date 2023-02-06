@@ -1,1 +1,6 @@
-The .scss (Sass) files are only avilable in the pro version. You can buy it from: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Thanks for downloading this template!
+
+Template Name: Personal
+Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
